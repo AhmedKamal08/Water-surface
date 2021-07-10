@@ -1,3 +1,7 @@
+
+![image info](./img/Untitled.png)
+
+
 1. 	From inside the build folder, run cmake ../
 2. 	Open BaseCode.sln with Visual Studio
 3. 	In Solution Explorer, right lick on BaseCode, open Properties -> Configuration Manager -> 
